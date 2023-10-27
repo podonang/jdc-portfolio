@@ -1,0 +1,28 @@
+p {
+  color: red;
+}
+
+body {
+  color: yellowgreen;
+  font-size: 50;
+}
+
+a {
+  color: black;
+}
+.odd-text {
+  color: yellow;
+  background-color: black;
+}
+
+#second-text {
+  color: dodgerblue;
+}
+
+div p {
+  text-decoration: ubderline;
+}
+
+div > strong {
+  border: 3px solid red;
+}
